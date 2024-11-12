@@ -13,8 +13,12 @@ Luciano Hugo Caliri Figueiredo - 22400266<br/>
 **Docente:** Andrey Rodrigues
 
 **Nome do sistema:**
+- Lightless (Leveza)
+<br>
 
 **Objetivo do trabalho:**
+- Desenvolver um aplicativo para fornecer apoio emocional para pessoas com problemas de ansiedade.
+<br>
 
 **Processos feitos:**
 
