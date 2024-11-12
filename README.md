@@ -13,7 +13,7 @@ Luciano Hugo Caliri Figueiredo - 22400266<br/>
 **Docente:** Andrey Rodrigues
 
 **Nome do sistema:**
-- Lightless (Leveza)
+- Lightness (Leveza)
 <br>
 
 **Objetivo do trabalho:**
