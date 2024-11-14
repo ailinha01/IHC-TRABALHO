@@ -17,10 +17,6 @@
 
 **Objetivo do trabalho:**
 - Desenvolver um aplicativo para fornecer apoio emocional para pessoas com problemas de ansiedade.
-<br>
-
-
-
 ## Processos feitos:<br/>
 
 ### Proposta<br/>
