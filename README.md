@@ -42,5 +42,5 @@
 [Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.3%20StoryBoard.md)<br/>
 
 - Mapa de Objetivos:<br/>
-[Acesse aqui](hhttps://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos.md)<br/>
+[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos.md)<br/>
 
