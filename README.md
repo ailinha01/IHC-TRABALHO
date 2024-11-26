@@ -41,11 +41,11 @@
 ### Design Conceitual
 
 - [Cenários de Interação]()
-- [HTAs]()
-- [MoLIC Visão Geral]()
-- [MoLIC Usuários]()
-- [MoLIC Ombro Amigo]()
-- [Metamensagem]()
+- [HTAs](https://github.com/ailinha01/IHC-TRABALHO/blob/accd0db42882b3722caaee83932eb5712c115e40/docs/3.%20%20Design_Alternativas/3.1%20Design_Conceitual/3.1.2%20HTAs.md)
+- [MoLIC Visão Geral](https://github.com/ailinha01/IHC-TRABALHO/blob/accd0db42882b3722caaee83932eb5712c115e40/docs/3.%20%20Design_Alternativas/3.1%20Design_Conceitual/3.1.3%20MoLIC/3.1.3.1%20Vis%C3%A3o_Geral_MoLIC.md)
+- [MoLIC Usuários](https://github.com/ailinha01/IHC-TRABALHO/blob/accd0db42882b3722caaee83932eb5712c115e40/docs/3.%20%20Design_Alternativas/3.1%20Design_Conceitual/3.1.3%20MoLIC/3.1.3.2%20MoLIC_usu%C3%A1rios.md)
+- [MoLIC Ombro Amigo](https://github.com/ailinha01/IHC-TRABALHO/blob/accd0db42882b3722caaee83932eb5712c115e40/docs/3.%20%20Design_Alternativas/3.1%20Design_Conceitual/3.1.3%20MoLIC/3.1.3.3%20MoLIC_ombro_amigo.md)
+- [Metamensagem](https://github.com/ailinha01/IHC-TRABALHO/blob/accd0db42882b3722caaee83932eb5712c115e40/docs/3.%20%20Design_Alternativas/3.1%20Design_Conceitual/3.1.4%20Metamensagem.md)
 
 ### Design Físico
 
