@@ -1,0 +1,17 @@
+# Diagramas de Interação (MoLIC)
+### O que é uma digrama de interação MoLIC?
+- MoLIC é um linguagem que os designers de IHC podem
+utilizar para modelar a interação dos usuários com sistemas
+computacionais, seguindo a metáfora de interação como
+conversa. Modelar a interação na MoLIC é modelar a conversa entre o
+usuário e o preposto (porta-voz) do designer cristalizado na
+interface.
+
+### MoLICs elaborados
+- Foram criados diagramas que correspondem as atividades efetuadas anteriormente, desenvolvendo as cenas específicas.
+
+## Diagrama Geral
+- Visão Geral do MoLIC gerado.
+<br>
+<p align="center"> <img src="https://github.com/ailinha01/IHC-TRABALHO/blob/4f38bee6064023789184688d7bb4ad366f36eb19/docs/Imagens/Imagens_MoLIC/diagramaMOLIC.drawio.png" alt="" width="2000" /></p>
+<br>
