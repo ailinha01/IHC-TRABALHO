@@ -49,4 +49,4 @@
 
 ### Design Físico
 
-- [Sketches]()
+- [Sketches](https://github.com/ailinha01/IHC-TRABALHO/blob/e8226c1cadfb864390787cfd104b0444340f1cc1/docs/3.%20%20Design_Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches.md)
