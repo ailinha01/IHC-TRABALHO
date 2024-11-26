@@ -19,28 +19,34 @@
 - Desenvolver um aplicativo para fornecer apoio emocional para pessoas com problemas de ansiedade.
 ## Processos feitos:<br/>
 
-### Proposta<br/>
-- Definição do Problema:<br/>
-[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/1.%20Proposta/1.1%20Problemas.md)<br/>
+### Proposta 
+- [Definição do Problema](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/1.%20Proposta/1.1%20Problemas.md)
 
-- Soluções Existentes:<br/>
-[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/1.%20Proposta/1.2%20Solu%C3%A7%C3%B5es_Existentes.md
-)<br/>
+- [Soluções Existentes](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/1.%20Proposta/1.2%20Solu%C3%A7%C3%B5es_Existentes.md
+)
 
-- Reframing:<br/>
-[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/1.%20Proposta/1.3%20Reframing.md)<br/>
+- [Reframing](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/1.%20Proposta/1.3%20Reframing.md)
 
 ### Design Thinking
 - Personas:<br/>
 [Técnica PATHY (Persona empATHY)](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.1%20Personas/2.1.1%20Personas_T%C3%A9cnica_PATHY.md)<br/>
 [Descrição das personas](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.1%20Personas/2.1.2%20Personas_Descri%C3%A7%C3%A3o.md)<br/>
 
-- Cenários Problema:<br/>
-[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.2%20Cen%C3%A1rios_Problema.md)<br/>
+- [Cenários Problema](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.2%20Cen%C3%A1rios_Problema.md)
 
-- Storyboard:<br/>
-[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.3%20StoryBoard.md)<br/>
+- [Storyboard](https://github.com/ailinha01/IHC-TRABALHO/blob/ff71d6767ed5a38b32c288360ca0d0063f7bbb74/docs/2.%20Design_Thinking/2.3%20StoryBoard.md)
 
-- Mapa de Objetivos:<br/>
-[Acesse aqui](https://github.com/ailinha01/IHC-TRABALHO/blob/2bd6946f2b661ce50cb32d553eee32e3dcfcab3e/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos.md)<br/>
+- [Mapa de Objetivos](https://github.com/ailinha01/IHC-TRABALHO/blob/2bd6946f2b661ce50cb32d553eee32e3dcfcab3e/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos.md)
 
+### Design Conceitual
+
+- [Cenários de Interação]()
+- [HTAs]()
+- [MoLIC Visão Geral]()
+- [MoLIC Usuários]()
+- [MoLIC Ombro Amigo]()
+- [Metamensagem]()
+
+### Design Físico
+
+- [Sketches]()
