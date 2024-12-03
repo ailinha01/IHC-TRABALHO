@@ -52,7 +52,7 @@
 - [Sketches](https://github.com/ailinha01/IHC-TRABALHO/blob/d3c62b82d6c2bfabc7e389a9781d5e66230e1e11/docs/3.%20%20Design_Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches.md)
 
 ### Design de Interface
-- [Interface]()
-- [Wireframes]()
-- [Imagens]()
-- [Ícones]()
+- [Interface](https://github.com/ailinha01/IHC-TRABALHO/blob/55920e6fc3719193909df347b7f71daf6e593ba7/docs/4.%20Design_Interface/4.1%20Interface/video/video.md)
+- [Aplicativos que serviram de inspiração](https://github.com/ailinha01/IHC-TRABALHO/blob/ea5d72d22690b27aaaee26f67cb2c6a476927c1a/docs/4.%20Design_Interface/4.1%20Interface/video/Interface.md)
+- [Wireframes](https://github.com/ailinha01/IHC-TRABALHO/blob/a9ca0a57011c6483e1d052e2f5d87cffdda6e447/docs/4.%20Design_Interface/4.2%20Wireframes/4.2.1%20Wireframe1.md)
+- [Ícones](https://github.com/ailinha01/IHC-TRABALHO/blob/55920e6fc3719193909df347b7f71daf6e593ba7/docs/4.%20Design_Interface/%C3%ADcones/%C3%8Dcones_do_Aplicativo.md)
