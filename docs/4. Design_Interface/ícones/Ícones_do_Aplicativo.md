@@ -16,6 +16,8 @@
 <br>
 
 ## Ícones da Funcionalidade Atividades para Relaxar (Usuário Comum)
+<p align="center"> <img src="https://github.com/ailinha01/IHC-TRABALHO/blob/main/docs/4.%20Design_Interface/imagens/imagens_%C3%ADcones/Icones%20Atividades.png" alt="" width="800" /></p>
+<br>
 
 ## Ícones da Funcionalidade Área Desabafo
 <p align="center"> <img src="https://github.com/ailinha01/IHC-TRABALHO/blob/main/docs/4.%20Design_Interface/imagens/imagens_%C3%ADcones/Icones%20%C3%81rea%20Desabafo.png" alt="" width="800" /></p>
@@ -40,9 +42,9 @@
 <p align="center"> <img src="https://github.com/ailinha01/IHC-TRABALHO/blob/main/docs/4.%20Design_Interface/imagens/imagens_%C3%ADcones/Icones%20Texto%20Autoajuda%20PcD.png" alt="" width="800" /></p>
 <br>
 
-## Ícones da tela Principal do Usuário Pcd
+## Ícones da Tela Principal do Usuário Pcd
 <br>
-<p align="center"> <img src="https://github.com/ailinha01/IHC-TRABALHO/blob/main/docs/4.%20Design_Interface/imagens/imagens_%C3%ADcones/Icones%20Tela%20Principal%20UP.png" alt="" width="800" /></p>
+<p align="center"> <img src="https://github.com/ailinha01/IHC-TRABALHO/blob/main/docs/4.%20Design_Interface/imagens/imagens_%C3%ADcones/Icones%20Tela%20Principal%20UP.png" alt="" width="500" /></p>
 <br>
 
 ## Ícones da Funcionalidade de Atividades para Relaxar (Usuário PcD)
