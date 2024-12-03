@@ -50,3 +50,9 @@
 ### Design Físico
 
 - [Sketches](https://github.com/ailinha01/IHC-TRABALHO/blob/d3c62b82d6c2bfabc7e389a9781d5e66230e1e11/docs/3.%20%20Design_Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches.md)
+
+### Design de Interface
+- [Interface]()
+- [Wireframes]()
+- [Imagens]()
+- [Ícones]()
