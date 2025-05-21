@@ -3,7 +3,7 @@
 ## Objetivo do trabalho
 <br>
 
-- Desenvolver um aplicativo para fornecer apoio emocional para pessoas com problemas de ansiedade.
+- Desenvolver um aplicativo para fornecer apoio emocional para pessoas com problemas de ansiedade. Diante desse cenário, o projeto foi idealizado com o objetivo de oferecer suporte eficaz às pessoas que enfrentam a ansiedade. A proposta é desenvolver estratégias e ações que ajudem a reduzir os sintomas e promover uma melhor qualidade de vida, ao mesmo tempo em que se busca conscientizar sobre a importância de cuidar da saúde mental. Além disso, o projeto pretende criar um ambiente acolhedor e de apoio, onde os indivíduos possam encontrar recursos e ferramentas práticas para lidar com a ansiedade, melhorar a gestão emocional e recuperar o controle sobre suas vidas. O foco principal é promover a prevenção, o tratamento e a conscientização, com o intuito de fortalecer emocional e psicologicamente aqueles que sofrem com esse transtorno.
 <br>
 
 ## Curso
