@@ -1,22 +1,31 @@
-# TP2 IHC
+# Lightness
+- Lightness (Leveza)
+## Objetivo do trabalho
+<br>
 
-**Curso:** Engenharia de Software
-
-**Integrantes:<br/>**
-22402231 - Aila Karoline Santana Moreira     <br/>
-22402234 - Emelly Cristina Grana de Oliveira <br/>
-22400271 - Gustavo de Oliveira Pena          <br/>
-22402224 - João Paulo Barreto da Silva       <br/>
-22402225 - Karen Vitória Rodrigues Pereira   <br/>
-22400266 - Luciano Hugo Caliri Figueiredo    <br/>
-
-**Docente:** Andrey Antonio de Oliveira Rodrigues
-
-**Nome do sistema:**
-- Lightness (Leveza)<br/>
-
-**Objetivo do trabalho:**
 - Desenvolver um aplicativo para fornecer apoio emocional para pessoas com problemas de ansiedade.
+<br>
+
+## Curso
+- Engenharia de Software
+
+## Integrantes
+<br>
+
+- 22402231 - Aila Karoline Santana Moreira     
+- 22402234 - Emelly Cristina Grana de Oliveira
+- 22400271 - Gustavo de Oliveira Pena          
+- 22402224 - João Paulo Barreto da Silva       
+- 22402225 - Karen Vitória Rodrigues Pereira   
+- 22400266 - Luciano Hugo Caliri Figueiredo    
+<br>
+
+## Docente 
+<br>
+
+- Andrey Antonio de Oliveira Rodrigues
+<br>
+
 ## Processos feitos:<br/>
 
 ### Proposta 
